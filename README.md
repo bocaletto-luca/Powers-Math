@@ -2,6 +2,7 @@
 
 🚀 **Powers-Math** is an interactive **mathematical tool** designed to **calculate powers (exponents) and visualize the results through dynamic graphs**. This web app allows users to explore **exponential growth, logarithmic decay**, and various base exponent calculations. 📈  
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Powers-Math/)
 ---
 
 ## 🏆 Features  
